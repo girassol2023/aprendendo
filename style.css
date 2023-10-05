@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(188, 207, 255);
+}
+
+.video {
+    width: 600px;
+    height: 600px;
+    margin: auto rgb(133, 135, 236);
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: aqua;
+}
+
+.menu {
+    background: cornflowerblue;
+}
+
+.links {
+    display: inline;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+a {
+    color: rgb(200, 207, 251);
+    font-size: xx-large;
+    
+}
+
+kbd {
+    background: cornflowerblue;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#texto {
+    font-size: 30px;
+}
+
+
+.copyRightFooter {
+    position: fixed;
+     color: white;
+     bottom: 0;
+     width: 100%;
+       background-color: rgb(130, 163, 255);
+     line-height: 3;
+     text-align: center;
+   }
+
